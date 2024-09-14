@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "1076983775225",
+    "firebase_url": "https://let-s-talk-b968e-default-rtdb.firebaseio.com",
+    "project_id": "let-s-talk-b968e",
+    "storage_bucket": "let-s-talk-b968e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076983775225:android:27054cc94cf53608358728",
+        "android_client_info": {
+          "package_name": "app.brachx.letstalkmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076983775225-j7pq7um1nfgo5bjb5sjs4tgdrvkpec44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.brachx.letstalkmvvm",
+            "certificate_hash": "b57a6b9bf4cc452fe18c979309369adfd8a6d2d2"
+          }
+        },
+        {
+          "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgXuWaC3edZEpUmE7r60_nQaBXvZW788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076983775225:android:9152c3e4cc979a75358728",
+        "android_client_info": {
+          "package_name": "com.androiddev.proskillshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgXuWaC3edZEpUmE7r60_nQaBXvZW788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076983775225:android:04adaaf1d4308d20358728",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgXuWaC3edZEpUmE7r60_nQaBXvZW788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076983775225:android:d1e5155eef2c3596358728",
+        "android_client_info": {
+          "package_name": "com.example.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076983775225-n7dvedah34e1v9gurgtnfp2if0hdfcs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letstalk",
+            "certificate_hash": "cdd4515abe750fd6fc54b408f606f4c42cb1ca29"
+          }
+        },
+        {
+          "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgXuWaC3edZEpUmE7r60_nQaBXvZW788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076983775225:android:50c127427dc15d0d358728",
+        "android_client_info": {
+          "package_name": "com.kaushlendraprajapati.projectdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgXuWaC3edZEpUmE7r60_nQaBXvZW788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076983775225-la0b5ohno8khqrj25rs7reohdlbiulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
